@@ -1,0 +1,31 @@
+examine cama
+pegue marreta
+quebre paredeRachada
+pegue chavePortaInicial
+abra portaCorredor
+l
+examine janelaGradeada
+pegue chaveBanheiro
+abra portaBanheiro
+n
+pegue estilete
+estripe corpo
+pegue chaveSalao
+s
+abra portaSalao
+b
+examine abajur
+pegue chaveCozinha
+abra portaCozinha
+l
+examine armarioCozinha
+pegue senha
+w
+abra portaSala
+w
+pegue machado
+quebre armarioSala
+pegue chavePrincipal
+l
+abra portaPrincipal
+n
